@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Seyram A. Butame -- CV
 ---
 # Isaac Newton
 Physicist, Mathematician, Cambridge professor.
@@ -27,8 +27,8 @@ Cooling, power series, optics, alchemy, planetary motions, apples.
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2012-2017`
+__University of Texas Health Science Center at Houston (UTHealth)__
 
 `June 1661 - now`
 __Trinity College, Cambridge__
