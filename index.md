@@ -27,18 +27,20 @@ Cooling, power series, optics, alchemy, planetary motions, apples.
 
 ## Education
 
-`2012-2017`
+`December 2017`
 __University of Texas Health Science Center at Houston (UTHealth)__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+- Doctor of Philosophy (*Specialization*:	Health Management & Policy Sciences)
 
-- Sizar
+`February 2011`
+__Columbia University, New York, NY.__
 
-`1667 - death`
-__Trinity College, Cambridge__
+- Master of Public Health (*Specialization*:	Health Policy and Management)
 
-- Fellow
+`May 2008`
+__Reed College, Portland, OR.__
+
+- Bachelor of Arts (*Specialization*:	Biological Sciences)
 
 
 
@@ -71,10 +73,10 @@ etc. etc. etc.
 Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
 
 
-## Occupation
+## PROFESSIONAL POSITIONS
 
-`1600`
-__Royal Mint__, London
+`2021 - Present`
+__Research Faculty__, Tallahassee, FL.
 
 - Warden
 - Minted coins
@@ -86,6 +88,6 @@ __Lucasian professor of Mathematics__, Cambridge University
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: February 2022 -->
 
 
