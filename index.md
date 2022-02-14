@@ -48,12 +48,10 @@ __Reed College, Portland, OR.__
 __Research Faculty__, London
 
 - Wa
-- Minted coins
+- Minted 
 
 `2018 - 2021`
 __Postdoctoral  of Math__, Cambridge University
-
-
 
 
 
@@ -68,7 +66,9 @@ Associate, *French Academy of Science*, Paris, France
 
 ## Publications
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+- Ennis, N., Armas, L., **Butame, S.**, & Joshi, H. (2021). Factors Impacting Video Telehealth Appointment Completion During COVID-19 Pandemic Among People Living with HIV in a Community-Based Health System. *AIDS and Behavior*, 1-8.
+
+<!-- A list is also available [online](https://scholar.google.com/citations?user=ARBp_DIAAAAJ&hl=en) -->
 
 ### Journals
 
