@@ -2,8 +2,8 @@
 layout: cv
 title: Seyram A. Butame -- Resume
 ---
-# SEYRAM AHIADEKE BUTAME, PHD, MPH, BA
-Public Health Expert, Analyst, and Faculty-Florida State University.
+# SEYRAM A. BUTAME, PhD
+Research Faculty, Public health policy expert, and Health analyst.
 
 <div id="webaddress">
 <a href="butames@gmail.com">butames@gmail.com</a>
