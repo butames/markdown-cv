@@ -30,17 +30,17 @@ Cooling, power series, optics, alchemy, planetary motions, apples.
 `December 2017`
 __University of Texas Health Science Center at Houston (UTHealth)__
 
-- Doctor of Philosophy (*Specialization*:	Health Management & Policy Sciences)
+- Doctor of Philosophy (Specialization:	Health Management & Policy Sciences)
 
 `February 2011`
 __Columbia University, New York, NY.__
 
-- Master of Public Health (*Specialization*:	Health Policy and Management)
+- Master of Public Health (Specialization:	Health Policy and Management)
 
 `May 2008`
 __Reed College, Portland, OR.__
 
-- Bachelor of Arts (*Specialization*:	Biological Sciences)
+- Bachelor of Arts (Specialization:	Biological Sciences)
 
 
 
@@ -55,7 +55,9 @@ Associate, *French Academy of Science*, Paris, France
 
 ## Publications
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+- Ennis, N., Armas, L., **Butame, S.**, & Joshi, H. (2021). Factors Impacting Video Telehealth Appointment Completion During COVID-19 Pandemic Among People Living with HIV in a Community-Based Health System. *AIDS and Behavior*, 1-8.
+
+<!-- A list is also available [online](https://scholar.google.co.uk/citations?hl=en&user=ARBp_DIAAAAJ) -->
 
 ### Journals
 
