@@ -2,18 +2,18 @@
 layout: cv
 title: Seyram A. Butame -- CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# SEYRAM AHIADEKE BUTAME, PHD, MPH, BA
+Public Health Expert, Analyst, and Faculty-Florida State University.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="butames@gmail.com">butames@gmail.com</a>
+| <a href="butames.com">My blog and website</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Working as a Research Faculty at Florida State University, College of Medicine
 
 ### Specialized in
 
