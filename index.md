@@ -1,44 +1,59 @@
 ---
 layout: cv
-title: Seyram A. Butame -- CV
+title: Seyram A. Butame -- Resume
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# SEYRAM AHIADEKE BUTAME, PHD, MPH, BA
+Public Health Expert, Analyst, and Faculty-Florida State University.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="butames@gmail.com">butames@gmail.com</a>
+| <a href="butames.com">My blog and website</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+I am currently working as a Research Faculty at Florida State University, College of Medicine (Center for Translational Behavioral Science).
 
-### Specialized in
+### Areas of Interest
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
+Policy Impementation, Data Science, child health and well-being.
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Implementation Science, Translational Science, HIV, youth HIV.
 
 
 ## Education
 
-`2012-2017`
+`December 2017`
 __University of Texas Health Science Center at Houston (UTHealth)__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+- Doctor of Philosophy (*Specialization*:	Health Management & Policy Sciences)
 
-- Sizar
+`February 2011`
+__Columbia University, New York, NY.__
 
-`1667 - death`
-__Trinity College, Cambridge__
+- Master of Public Health (*Specialization*:	Health Policy and Management)
 
-- Fellow
+`May 2008`
+__Reed College, Portland, OR.__
+
+- Bachelor of Arts (*Specialization*:	Biological Sciences)
+
+
+## Work Experience
+
+`2021 - Present`
+__Research Faculty__, London
+
+- Wa
+- Minted coins
+
+`2018 - 2021`
+__Postdoctoral  of Math__, Cambridge University
+
+
 
 
 
@@ -69,18 +84,6 @@ etc. etc. etc.
 
 `2012`
 Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
 
 
 
