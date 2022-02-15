@@ -67,8 +67,10 @@ Associate, *French Academy of Science*, Paris, France
 ## Publications
 
 - **Butame, S. A.**, Idalski Carcone, A., Coyle, K., & Naar, S. (2021). Implementation of Evidence-Based Practices to Reduce Youth HIV Transmission and Improve Self-Management: A Survey of Key Stakeholder Perspectives. AIDS patient care and STDs, 35(10), 385-391.
+---
 - Ennis, N., Armas, L., **Butame, S.**, & Joshi, H. (2021). Factors Impacting Video Telehealth Appointment Completion During COVID-19 Pandemic Among People Living with HIV in a Community-Based Health System. AIDS and Behavior, 1-8.
-- Paulino-Ramírez, R., Hearld, K. R., **Butane, S. A.**, Tapia, L., Budhwani, H., Naar, S., & Rodriguez-Lauzurique, M. (2021). Serological Confirmed Syphilis Among Transgender Women in Dominican Republic. Transgender Health.
+---
+- Paulino-Ramírez, R., Hearld, K. R., **Butame, S. A.**, Tapia, L., Budhwani, H., Naar, S., & Rodriguez-Lauzurique, M. (2021). Serological Confirmed Syphilis Among Transgender Women in Dominican Republic. Transgender Health.
 
 - Nagy, S. M., Butame, S. A., Todd, L., Sheffler, J. L., Budhwani, H., Fernandez, M. I., ... & Naar, S. (2021). Barriers and facilitators to implementing a motivational interviewing-based intervention: a multi-site study of organizations caring for youth living with HIV. AIDS care, 1-6.
 
