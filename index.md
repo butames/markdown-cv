@@ -98,19 +98,24 @@ Lectiones opticæ.
 
 etc. etc. etc.
 
-### Service
+## University and Community Service
 
 `Summer 2019`
+__Florida State University/ Center for Translational Behavioral Research__
 - Adolescent Medicine Trials Network for HIV/AIDS Interventions (ATN), Fall 2019 Meeting Planning Committee, Washington, D.C.
 
 `Winter 2019`
+__Florida State University/ Center for Translational Behavioral Research__
 - Adolescent Medicine Trials Network for HIV/AIDS Interventions (ATN), Spring 2019 Meeting Planning Committee, Washington, D.C. 
 
 `2017 - 2018`
+__University of Texas Health Science Center at Houston (UTHealth)__
 - Harris County Public Health – Surveillance and Epidemiology Volunteer (Ad Hoc)
-Member, Ghana Atomic Energy Commission, Radiological and Medical Sciences Research Institute - Administrative Steering Committee, Accra, Ghana.  
-Member, Ghana Atomic Energy Commission, Radiological and Medical Sciences Research Institute - Research and Technical Committee, Accra, Ghana.    
-Member, Ghana Atomic Energy Commission, Radiological and Medical Sciences Research Institute - Publications Committee, Accra, Ghana.
+
+`2011 - 2012`
+- Member, Ghana Atomic Energy Commission, Radiological and Medical Sciences Research Institute - Administrative Steering Committee, Accra, Ghana.
+- Member, Ghana Atomic Energy Commission, Radiological and Medical Sciences Research Institute - Research and Technical Committee, Accra, Ghana.    
+- Member, Ghana Atomic Energy Commission, Radiological and Medical Sciences Research Institute - Publications Committee, Accra, Ghana.
 
 
 `2010 - 2011`
