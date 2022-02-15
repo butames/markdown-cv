@@ -89,17 +89,41 @@ A list is also available [online](https://scholar.google.com/citations?user=ARBp
 ## Unpublished Manuscripts and Works
 
 
-## Peer Review Activities
+## Peer Reviewer Work
 
-### Journals
+### Journals and Perodicals
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+`2021 - Present`
+__AIDS Patient Care and STDs (Mary Ann Liebert, Inc.)__
+- Ad hoc review
 
-`1669`
-Lectiones opticæ.
+`2019 - Present`
+__PLOS One (PLOS One Journals)__
+- Ad hoc review
 
-etc. etc. etc.
+`2019 - Present`
+__BMJ Open (BMJ academic journals)__
+- Ad hoc review
+
+`2019 - Present`
+__Cancer Control (SAGE Publications)__
+- Ad hoc review
+
+
+### Conference Abstract Reviews
+
+`2019`
+__147th American Public Health Association 2019 Annual Meeting__
+- Ad hoc abstract review: Ethics Program, International Health Section, and Documentary Film Festival
+
+`2018`
+__146th American Public Health Association 2018 Annual Meeting__
+- Ad hoc abstract review: Ethics Program and International Health Section
+
+`2017`
+__145th American Public Health Association 2017 Annual Meeting__
+- Ad hoc abstract review: International Health Section
+
 
 ## University and Community Service
 
