@@ -79,12 +79,15 @@ Associate, *French Academy of Science*, Paris, France
 
 `2017`
 - **Butame, S. A.**, Lawler, S., Hicks, J. T., Wilkerson, J. M., Hwang, L.-Y., Baraniuk, S., . . . Nyitray, A. G. (2017). A qualitative investigation among men who have sex with men on the acceptability of performing a self- or partner anal exam to screen for anal cancer. Cancer Causes & Control, 1-10. doi:[10.1007/s10552-017-0935-6]()
+
+`2016`
 - Wilkerson, J. M., Gallardo, K. R., **Butame, S. A.**, Hoelscher, D. M., Reininger, B., & Shegog, R. (2016). Increasing Doctoral Students’ Self-Efficacy to Teach Health Promotion Theory. Pedagogy in Health Promotion, 2373379916681032. doi: [10.1177/2373379916681032]()
 - Wilkerson, J. M., Schick, V. R., Romijnders, K. A., Bauldry, J., **Butame, S. A.**, & Center, T. M. (2016). Social Support, Depression, Self-Esteem, and Coping Among LGBTQ Adolescents Participating in Hatch Youth. Health Promotion Practice. doi:[10.1177/1524839916654461]()
 
 <!-- A list is also available [online](https://scholar.google.com/citations?user=ARBp_DIAAAAJ&hl=en) -->
 
 ## Peer Review Activities
+
 ### Journals
 
 `1669`
@@ -95,10 +98,24 @@ Lectiones opticæ.
 
 etc. etc. etc.
 
-### Patents
+### Service
 
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+`Summer 2019`
+- Adolescent Medicine Trials Network for HIV/AIDS Interventions (ATN), Fall 2019 Meeting Planning Committee, Washington, D.C.
+
+`Winter 2019`
+- Adolescent Medicine Trials Network for HIV/AIDS Interventions (ATN), Spring 2019 Meeting Planning Committee, Washington, D.C. 
+
+`2017 - 2018`
+- Harris County Public Health – Surveillance and Epidemiology Volunteer (Ad Hoc)
+Member, Ghana Atomic Energy Commission, Radiological and Medical Sciences Research Institute - Administrative Steering Committee, Accra, Ghana.  
+Member, Ghana Atomic Energy Commission, Radiological and Medical Sciences Research Institute - Research and Technical Committee, Accra, Ghana.    
+Member, Ghana Atomic Energy Commission, Radiological and Medical Sciences Research Institute - Publications Committee, Accra, Ghana.
+
+
+`2010 - 2011`
+Treasurer, Student Government Association, Columbia University, Mailman School of Public Health, New York, New York.
+
 
 ## Professional Affiliations
 
