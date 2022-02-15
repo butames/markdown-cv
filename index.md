@@ -95,6 +95,9 @@ etc. etc. etc.
 Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
 
 
+<div class="footer">
+  &copy; 2004 Foo Corporation
+</div>
 
 <!-- ### Footer
 
