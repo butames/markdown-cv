@@ -100,6 +100,18 @@ etc. etc. etc.
 `2012`
 Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
 
+## Professional Affiliations
+
+`2017 - Present`
+__American Public Health Association (APHA)__
+
+`2019 - Present`
+__AcademyHealth__
+
+`2020 - 2021`
+__International AIDS Society(IAS)__
+
+
 
 <div class="footer">
   Last updated: February 2022
