@@ -84,7 +84,10 @@ Associate, *French Academy of Science*, Paris, France
 - Wilkerson, J. M., Gallardo, K. R., **Butame, S. A.**, Hoelscher, D. M., Reininger, B., & Shegog, R. (2016). Increasing Doctoral Students’ Self-Efficacy to Teach Health Promotion Theory. Pedagogy in Health Promotion, 2373379916681032. doi: [10.1177/2373379916681032]()
 - Wilkerson, J. M., Schick, V. R., Romijnders, K. A., Bauldry, J., **Butame, S. A.**, & Center, T. M. (2016). Social Support, Depression, Self-Esteem, and Coping Among LGBTQ Adolescents Participating in Hatch Youth. Health Promotion Practice. doi:[10.1177/1524839916654461]()
 
-<!-- A list is also available [online](https://scholar.google.com/citations?user=ARBp_DIAAAAJ&hl=en) -->
+A list is also available [online](https://scholar.google.com/citations?user=ARBp_DIAAAAJ&hl=en)
+
+## Unpublished Manuscripts and Works
+
 
 ## Peer Review Activities
 
@@ -138,9 +141,5 @@ __International AIDS Society(IAS)__
 <div class="footer">
   Last updated: February 2022
 </div>
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
 
 
