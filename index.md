@@ -84,6 +84,7 @@ Associate, *French Academy of Science*, Paris, France
 
 <!-- A list is also available [online](https://scholar.google.com/citations?user=ARBp_DIAAAAJ&hl=en) -->
 
+## Peer Review Activities
 ### Journals
 
 `1669`
@@ -101,7 +102,7 @@ Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.tech
 
 
 <div class="footer">
-  &copy; 2004 Foo Corporation
+  Last updated: February 2022
 </div>
 
 <!-- ### Footer
