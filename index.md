@@ -7,9 +7,14 @@ Research Faculty, Public health policy expert, and Health analyst.
 
 <div id="webaddress">
 <a href="butames@gmail.com">butames@gmail.com</a>
-| <a href="butames.com">My blog and website</a>
+| <a href="http://butames.com/">Seyram's Blog & Website</a>
 </div>
 
+
+<div id="webaddress">
+<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
+| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+</div>
 
 ## Currently
 
