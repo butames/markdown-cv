@@ -89,6 +89,25 @@ A list is also available [online](https://scholar.google.com/citations?user=ARBp
 ## Unpublished Manuscripts and Works
 
 
+## Teaching Experience
+
+### Courses Taught
+
+`Fall 2017`
+__University of the Incarnate Word/ UTHealth San Antonio, TX__
+- PUBH3310 ONL Fa Essentials of Public Health (Online Course)
+
+`Fall 2017`
+__University of the Incarnate Word/ UTHealth San Antonio, TX__
+- PUBH4310 ONL Fa Essentials of Health Behavior/ Health Promotion (Online Course)
+
+`Spring 2017`
+__University of the Incarnate Word/ UTHealth San Antonio, TX__
+- PUBH 3310 ONL Sp Essentials of Global Health (Online Course)
+
+
+
+
 ## Peer Reviewer Work
 
 ### Journals and Perodicals
@@ -112,6 +131,10 @@ __Cancer Control (SAGE Publications)__
 
 ### Conference Abstract Reviews
 
+`2020`
+__148th American Public Health Association 2020 Annual Meeting__
+- Ad hoc abstract review: International Health Section, HIV/AIDS Section
+
 `2019`
 __147th American Public Health Association 2019 Annual Meeting__
 - Ad hoc abstract review: Ethics Program, International Health Section, and Documentary Film Festival
@@ -126,6 +149,13 @@ __145th American Public Health Association 2017 Annual Meeting__
 
 
 ## University and Community Service
+`Winter 2021`
+__Florida State University/ Center for Translational Behavioral Research__
+- Adolescent Medicine Trials Network for HIV/AIDS Interventions (ATN), Spring 2021 Meeting Planning Committee, Washington, D.C.
+
+`Winter 2020`
+__Florida State University/ Center for Translational Behavioral Research__
+- Adolescent Medicine Trials Network for HIV/AIDS Interventions (ATN), Spring 2020 Meeting Planning Committee, Washington, D.C.
 
 `Summer 2019`
 __Florida State University/ Center for Translational Behavioral Research__
