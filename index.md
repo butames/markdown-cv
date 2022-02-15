@@ -7,9 +7,9 @@ Research Faculty, Public health policy expert, and Health analyst.
 
 <div id="webaddress">
  <a href="https://ctbs.fsu.edu/person/seyram-butame-phd" target="_blank">Center for Translational Behavioral Science (CTBScience)</a>
- | <a href="https://med.fsu.edu/" target="_blank">Florida State Uninversity - College of Medicine</a>
- | <a href="mailto: butames@gmail.com" target="_blank">butames@gmail.com</a>
- | <a href="http://butames.com/" target="_blank">Personal Website & Blog</a>
+ &nbsp;<a href="https://med.fsu.edu/" target="_blank">Florida State Uninversity - College of Medicine</a>
+ &nbsp;<a href="mailto: butames@gmail.com" target="_blank">Email: butames@gmail.com</a>
+ &nbsp;<a href="http://butames.com/" target="_blank">Personal Website & Blog</a>
 </div>
 
 
