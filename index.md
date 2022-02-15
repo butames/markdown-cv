@@ -42,7 +42,7 @@ __Reed College, Portland, OR.__
 - Bachelor of Arts (*Specialization*:	Biological Sciences)
 
 
-## Work Experience
+## Relevant Work Experience
 
 `2021 - Present`
 __Research Faculty__, London
@@ -54,8 +54,34 @@ __Research Faculty__, London
 __Postdoctoral  of Math__, Cambridge University
 
 
+## Other Work Experience
 
-## Awards
+`2013 - 2015`
+__Graduate Assistant Library Services, UTHealth (Houston, TX)__
+- Catalog and maintain the library materials.
+- Assist faculty with database searches and use of other library resources.
+
+`2012 - 2013`
+__Division Teaching Assistant, UTHealth (Houston, TX)__
+- Provided ad hoc services to faculty in the Division of Management, Policy and Community Health.
+- Grade Master's level student papers and prepare class material.
+
+`2011 - 2012`
+__Administrative Coordinator, Ghana Atomic Energy Commission (Accra, GH)__
+- Assistant to the Director of the Radiological and Medical Sciences Research Institute (RAMSRI).
+- Prepare a business proposal to secure funding to establish a Diagnostic Imaging and Inpatient Centre.
+
+`2010 - 2011`
+__Intern/Consultant, International Atomic Energy Agency (Vienna, AT)__
+- Aid Programme Management Officer (PMO) to manage IAEA projects (Botswana, Ethiopia, Ghana and Tanzania).
+- Work with PMO and Technical Officers to review and refocus Country Programme Framework (CPF) documents.
+
+`2010 - 2011`
+__Graduate Research Assistant, Mobile Technology for Community Health (MoTeCH) Project (Navrongo, GH)__
+- Review demographic and survey data, collected by field research assistants.
+- Clean collected data in preparation for further analysis using, statistical software package.
+
+## Grants & Awards
 
 `2012`
 President, *Royal Society*, London, UK
