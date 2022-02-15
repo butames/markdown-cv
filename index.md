@@ -115,6 +115,16 @@ A list is also available [online](https://scholar.google.com/citations?user=ARBp
 
 ## Unpublished Manuscripts and Works
 
+### Doctoral Dissertation
+
+`2017`
+**Butame, S.A.**, (2017). Determinants of Women's Health Care Utilization, Child Survival and Child Immunization in Ghana: The Role of Empowerment.
+- Advisor:	Charles Begley, PhD.
+
+### Undergraduate Thesis
+`2008`
+**Butame, S.A.**, (2008). The dominant female: A look at the possible sex role reversal in Julidochromis marlieri, from a behavioral and hormonal perspective.
+- Advisor:	Susan P. Renn, PhD.
 
 ## Teaching Experience
 
