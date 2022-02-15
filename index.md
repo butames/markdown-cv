@@ -11,11 +11,6 @@ Research Faculty, Public health policy expert, and Health analyst.
 </div>
 
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
-
 ## Currently
 
 I am currently working as a Research Faculty at Florida State University, College of Medicine (Center for Translational Behavioral Science).
