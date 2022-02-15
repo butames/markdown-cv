@@ -10,7 +10,7 @@ Research Faculty, Public health policy expert, and Health analyst.
 | <a href="http://butames.com/">Website or Blog</a>
 </div>
 
-[Contact Us](mailto:admin@cloudhadoop.com)
+[Contact Us](mailto:butames@gmail.com)
 
 
 ## Currently
