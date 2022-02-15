@@ -6,9 +6,11 @@ title: Seyram A. Butame -- Resume
 Research Faculty, Public health policy expert, and Health analyst.
 
 <div id="webaddress">
-<a href="butames@gmail.com">butames@gmail.com</a>
-| <a href="http://butames.com/">Seyram's Blog & Website</a>
+<a href="butames@gmail.com">Email: butames@gmail.com</a>
+| <a href="http://butames.com/">Website or Blog</a>
 </div>
+
+[Contact Us](mailto:admin@cloudhadoop.com)
 
 
 ## Currently
