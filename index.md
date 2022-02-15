@@ -144,8 +144,8 @@ __International AIDS Society (International AIDS Conference)
 - Pooler-Burgess M., **Butame S.A.**, Naar S. Academic-public health partnerships for data driven implementation science recruitment of youth living with HIV in Florida. Presented at the AIDS 2020 – 23rd International AIDS Conference. July 06 - 10, 2020. Virtual.
 - Budhwani H., Hearld K.R., **Butame S.A.**, Tapia L., Naar S., Rodriguez-Lauzurique R.M., Paulino-Ramirez R. Socio serological study of transgender women in Dominican Republic: HIV and stigma. Presented at the AIDS 2020 – 23rd International AIDS Conference. July 06 - 10, 2020. Virtual
 
-__Adolescent Medicine Trials Network for HIV/AIDS Interventions__
 `2019`
+__Adolescent Medicine Trials Network for HIV/AIDS Interventions__
 - **Butame S.A.**, Nagy S., Naar S. Tackling the implementation of a Tailored Motivational Interviewing Intervention (TMI) -- Lessons learned from a sampling of clinical care sites. Presented at the Adolescent Medicine Trials Network for HIV/AIDS Interventions (ATN) Annual Meeting. October 23-25, 2019, Washington, D.C.
 - **Butame, S.A.**, Naar, S., Parsons, J.T., Stanton, B.F. Introducing ‘Scale-It Up’ – A program to improve self-management interventions among youth living with HIV (YLWH) and at-risk youth in the U.S. Presented at the Florida, Community, Providers and Researchers Conference. April 18-19, 2019. Gainesville, FL.
 
@@ -177,6 +177,7 @@ __UTHealth Research Day__
 - Advisor:	Charles Begley, PhD.
 
 ### Undergraduate Thesis
+
 `2008`
 **Butame, S.A.**, (2008). The dominant female: A look at the possible sex role reversal in Julidochromis marlieri, from a behavioral and hormonal perspective.
 - Advisor:	Susan P. Renn, PhD.
