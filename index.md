@@ -4,6 +4,8 @@ title: Seyram A. Butame -- Resume
 ---
 # SEYRAM A. BUTAME, PhD
 Research Faculty, Public health policy expert, and Health analyst.
+Organization: Center for Translational Behavioral Science (CTBScience), Florida State Uninversity - College of Medicine
+Address: 2010 Levy Ave. Tallahassee, Florida, 32310.
 
 <div id="webaddress">
  <a href="mailto: butames@gmail.com" target="_blank">butames@gmail.com</a>
