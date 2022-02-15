@@ -139,7 +139,7 @@ __AcademyHealth (Dissemination and Implementation Conference)__
 - Budhwani H, Nagy S, Fernandez MI, Todd L, **Butame S.A.**, Naar S. Reporting on early phases of the exploration preparation implementation sustainment (EPIS) framework to inform tailored motivational interviewing (TMI) delivery across United States HIV pediatric and adolescent clinics (ATN protocols 146 and 153). AcademyHealth Dissemination and Implementation Conference. Virtual. 2020.
 
 `2020`
-__International AIDS Society (International AIDS Conference)
+__International AIDS Society (International AIDS Conference)__
 - **Butame S.A.**, Harper G, Jauregui J., Skeen S., Idalski Carcone A., Coyle K., Naar S. Evaluating implementation practices in the Adolescent Trials Network for HIV/AIDS Interventions (ATN) with the EPIS Model: The role of policy within program implementation. Presented at the AIDS 2020 – 23rd International AIDS Conference. July 06 - 10, 2020. Virtual.
 - Pooler-Burgess M., **Butame S.A.**, Naar S. Academic-public health partnerships for data driven implementation science recruitment of youth living with HIV in Florida. Presented at the AIDS 2020 – 23rd International AIDS Conference. July 06 - 10, 2020. Virtual.
 - Budhwani H., Hearld K.R., **Butame S.A.**, Tapia L., Naar S., Rodriguez-Lauzurique R.M., Paulino-Ramirez R. Socio serological study of transgender women in Dominican Republic: HIV and stigma. Presented at the AIDS 2020 – 23rd International AIDS Conference. July 06 - 10, 2020. Virtual
@@ -280,8 +280,17 @@ __International AIDS Society(IAS)__
 
 ##  Technical Skills
 
-Microsoft Office (Excel, MS Word, MS Powerpoint) | SAS Analytics | Stata Statistical Software | IBM SPSS Statistics | Tableau Software | R Programming Language/ R Studio
+__Statistical Analysis__
+- Stata Statistical Software
+- R Programming Language/ R Studio
+- IBM SPSS Statistics
+- SAS Analytics
 
+__Data Visualization__
+- Tableau Software
+
+__Spread sheets, Processing & Presentations__
+- Microsoft Office (Excel, MS Word, MS Powerpoint)
 
 <div class="footer">
   Last updated: February 2022
