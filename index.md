@@ -54,7 +54,7 @@ __Reed College, Portland, OR.__
 
 `2021 - Present`
 __FLEX Peer Navigation Program__
-- This project linked youth living with HIV and at risk for HIV to critical housing and health services offered through the Florida Department of Health. My responsibilities were in outreach, screening, and program evaluation. Specifics included:
+This project linked youth living with HIV and at risk for HIV to critical housing and health services offered through the Florida Department of Health. My responsibilities were in outreach, screening, and program evaluation. Specifics include:
 - Developing and disseminating a screener to assist program outreach and client recruitment.
 - Evaluate training programs offered to health service providers across Florida.
 - Produce the final report detailing program opportunities and challenges, submitted to Florida Department of Health.
