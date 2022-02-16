@@ -51,14 +51,13 @@ __Reed College, Portland, OR.__
 ## Relevant Work Experience
 
 `2021 - Present`
-__FSU | COM - Research Faculty, Tallahassee, FL__
+### FSU | COM - Research Faculty, Tallahassee, FL
 
-I have an appointment with the FSU, College of Medicine, Center for Translational Behaivoral Science, where I serve as research Faculty. I have worked on the following:
----
-**FLEX Peer Navigation Program** -- The project linked youth living with HIV and at risk for HIV to critical housing and health services offered through the Florida Department of Health. My responsibilities were in outreach, screening, and program evaluation. Specifics included:
-* Developing and disseminating a screener to assist program outreach and client recruitment.
-* Evaluate training programs offered to health service providers across Florida.
-* Produce the final report detailing program opportunities and challenges, submitted to Florida Department of Health.
+__FLEX Peer Navigation Program__
+- This project linked youth living with HIV and at risk for HIV to critical housing and health services offered through the Florida Department of Health. My responsibilities were in outreach, screening, and program evaluation. Specifics included:
+- Developing and disseminating a screener to assist program outreach and client recruitment.
+- Evaluate training programs offered to health service providers across Florida.
+- Produce the final report detailing program opportunities and challenges, submitted to Florida Department of Health.
 
 `2018 - 2021`
 __Postdoctoral  of Math__, Cambridge University
