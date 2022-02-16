@@ -54,8 +54,7 @@ __Reed College, Portland, OR.__
 __FSU | COM - Research Faculty, Tallahassee, FL__
 
 I have an appointment with the FSU, College of Medicine, Center for Translational Behaivoral Science, where I serve as research Faculty. I have worked on the following:
-**FLEX Peer Navigation Program**
-The project linked youth living with HIV and at risk for HIV to critical housing and health services offered through the Florida Department of Health. My responsibilities were in outreach, screening, and program evaluation. Specifics included:
+1. **FLEX Peer Navigation Program** -- The project linked youth living with HIV and at risk for HIV to critical housing and health services offered through the Florida Department of Health. My responsibilities were in outreach, screening, and program evaluation. Specifics included:
 * Developing and disseminating a screener to assist program outreach and client recruitment.
 * Evaluate training programs offered to health service providers across Florida.
 * Produce the final report detailing program opportunities and challenges, submitted to Florida Department of Health.
