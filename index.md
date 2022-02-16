@@ -51,10 +51,9 @@ __Reed College, Portland, OR.__
 ## Relevant Work Experience
 
 `2021 - Present`
-__Research Faculty__, London
-
-- Wa
-- Minted 
+__FSU | COM - Research Faculty, Tallahassee, FL__
+I have an appointment with the FSU, College of Medicine, Center for Translational Behaivoral Science, where I serve as research Faculty. In my time, I have worked on three projects:
+- FLEX Peer Navigation
 
 `2018 - 2021`
 __Postdoctoral  of Math__, Cambridge University
