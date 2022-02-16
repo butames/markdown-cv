@@ -50,17 +50,16 @@ __Reed College, Portland, OR.__
 
 ## Relevant Work Experience
 
-`2021 - Present`
 ### FSU | COM - Research Faculty, Tallahassee, FL
 
+`2021 - Present`
 __FLEX Peer Navigation Program__
 - This project linked youth living with HIV and at risk for HIV to critical housing and health services offered through the Florida Department of Health. My responsibilities were in outreach, screening, and program evaluation. Specifics included:
 - Developing and disseminating a screener to assist program outreach and client recruitment.
 - Evaluate training programs offered to health service providers across Florida.
 - Produce the final report detailing program opportunities and challenges, submitted to Florida Department of Health.
 
-`2018 - 2021`
-__Postdoctoral  of Math__, Cambridge University
+
 
 
 ## Other Work Experience
@@ -92,10 +91,8 @@ __Graduate Research Assistant, Mobile Technology for Community Health (MoTeCH) P
 
 ## Grants & Awards
 
-`2012`
-President, *Royal Society*, London, UK
+`2019 - 2020`
 
-Associate, *French Academy of Science*, Paris, France
 
 
 
