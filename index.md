@@ -58,9 +58,9 @@ I have an appointment with the FSU, College of Medicine, Center for Translationa
 **FLEX Peer Navigation Program**
  <br>
 The project linked youth living with HIV and at risk for HIV to critical housing and health services offered through the Florida Department of Health. My responsibilities were in outreach, screening, and program evaluation. Specifics included:
- <tab><tab>- Developing and disseminating a screener to assist program outreach and client recruitment.
- <tab><tab>- Evaluate training programs offered to health service providers across Florida.
- <tab><tab>- Produce the final report detailing program opportunities and challenges, submitted to Florida Department of Health.
+ ><space><space><space><space><space>- Developing and disseminating a screener to assist program outreach and client recruitment.
+ ><space><space><space><space><space>- Evaluate training programs offered to health service providers across Florida.
+ ><space><space><space><space><space>- Produce the final report detailing program opportunities and challenges, submitted to Florida Department of Health.
 
 `2018 - 2021`
 __Postdoctoral  of Math__, Cambridge University
