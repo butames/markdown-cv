@@ -48,21 +48,21 @@ __Reed College, Portland, OR.__
 - Bachelor of Arts (*Specialization*:	Biological Sciences)
 
 
-## Relevant Work Experience
+## Current Work Experience
 
 ### FSU | COM - Research Faculty, Tallahassee, FL
 
 `2021 - Present`
 __FLEX Peer Navigation Program__
 
-This project linked youth living with HIV and at risk for HIV to critical housing and health services offered through the Florida Department of Health. My responsibilities were in outreach, screening, and program evaluation. Specifics include:
+This project linked youth living with HIV and at risk for HIV to critical housing and health services offered through the Florida Department of Health. My responsibilities were in **outreach**, **screening**, and **program evaluation**. Specifics include:
   - Developing and disseminating a screener to assist program outreach and client recruitment.
   - Evaluate training programs offered to health service providers across Florida.
   - Produce the final report detailing program opportunities and challenges, submitted to Florida Department of Health.
 
 __EHE - Youth Learning Health Community (YLHC)__
 
-This project seeks to plan and develop strategies to effectively address the HIV epidemic in youth living in Orlando, Florida, in direct response to the US government’s new policy, Ending the HIV Epidemic. My responsibilities include:
+This project seeks to plan and develop strategies to effectively address the HIV epidemic in youth living in Orlando, Florida, in direct response to the US government’s new policy, _Ending the HIV Epidemic_. My responsibilities include:
   - Co-chairing the EHE project at the Center for Translational Behavioral Science (CTBScience).
   - Gathering youth HIV data and presenting it to an implementation team consisting of providers in the Orlando metro area.
   - Perform general program and evaluation activities. 
@@ -70,7 +70,11 @@ This project seeks to plan and develop strategies to effectively address the HIV
 `2018 - Present`
 __Scale It Up Program (ATN 153: EPIS Study)__
 
-The EPIS study seeks to integrate evidence-based practices into practice, to enhance HIV-related self-management in youth populations. A part of the larger Scale It Up Program, my work centered on data 
+The EPIS study seeks to integrate evidence-based practices into practice, to enhance HIV-related self-management in youth populations. A part of the larger Scale It Up Program, my work centered on **data managment** and **analysis**.
+ - Co-lead of the implementation science committee.
+ - Study survey data data (qualitative and quantitative) management.
+
+__Scale It Up Program (ATN 169: EHR-COC Study)__
 
 ## Other Work Experience
 
