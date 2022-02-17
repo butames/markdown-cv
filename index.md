@@ -130,7 +130,9 @@ __Graduate Research Assistant, Mobile Technology for Community Health (MoTeCH) P
 - Wilkerson, J. M., Gallardo, K. R., **Butame, S. A.**, Hoelscher, D. M., Reininger, B., & Shegog, R. (2016). Increasing Doctoral Students’ Self-Efficacy to Teach Health Promotion Theory. Pedagogy in Health Promotion. doi: [10.1177/2373379916681032](https://doi.org/10.1177/2373379916681032)
 - Wilkerson, J. M., Schick, V. R., Romijnders, K. A., Bauldry, J., **Butame, S. A.**, & Center, T. M. (2016). Social Support, Depression, Self-Esteem, and Coping Among LGBTQ Adolescents Participating in Hatch Youth. Health Promotion Practice. doi:[10.1177/1524839916654461](https://doi.org/10.1177/1524839916654461)
 
-A list is also available [online](https://scholar.google.com/citations?user=ARBp_DIAAAAJ&hl=en)
+A list of Dr. Seyram A. Butame's publications may be found at the following:
+- [Google Scholar - Bibliography](https://scholar.google.com/citations?user=ARBp_DIAAAAJ&hl=en)
+- [National Library of Medicine - Bibliography](https://www.ncbi.nlm.nih.gov/myncbi/16ATSxuT5nSQh/bibliography/public/)
 
 ## Invited Symposia, Presentations and Posters
 
