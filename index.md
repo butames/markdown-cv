@@ -74,7 +74,13 @@ The EPIS study seeks to integrate evidence-based practices into practice, to enh
  - Co-lead of the implementation science committee.
  - Study survey data data (qualitative and quantitative) management.
 
+`2019 - 2020`
 __Scale It Up Program (ATN 169: EHR-COC Study)__
+
+This program focused on assessing the use of electronic health systems at care and service sites across the country, their ability to facilitate the implementation of interventions for youth living with HIV.
+ - Interviewing providers, electronic health system providers on the capabilities of their systems.
+ - Qualitative data collection and analysis.
+ - Ad-hoc protocol team duties.
 
 ## Other Work Experience
 
@@ -103,10 +109,9 @@ __Graduate Research Assistant, Mobile Technology for Community Health (MoTeCH) P
 - Review demographic and survey data, collected by field research assistants.
 - Clean collected data in preparation for further analysis using, statistical software package.
 
-## Grants & Awards
+## Contracts and Grants
 
 `2019 - 2020`
-
 
 
 
@@ -214,25 +219,25 @@ __University of the Incarnate Word/ UTHealth San Antonio, TX__
 __University of the Incarnate Word/ UTHealth San Antonio, TX__
 - PUBH 3310 ONL Sp Essentials of Global Health (Online Course)
 
-## Peer Reviewer Work
+## Editorial Activities
 
 ### Journals and Perodicals
 
 `2021 - Present`
 __AIDS Patient Care and STDs (Mary Ann Liebert, Inc.)__
-- Ad hoc review
+- Ad hoc reviewer
 
 `2019 - Present`
 __PLOS One (PLOS One Journals)__
-- Ad hoc review
+- Ad hoc reviewer
 
 `2019 - Present`
 __BMJ Open (BMJ academic journals)__
-- Ad hoc review
+- Ad hoc reviewer
 
 `2019 - Present`
 __Cancer Control (SAGE Publications)__
-- Ad hoc review
+- Ad hoc reviewer
 
 
 ### Conference Abstract Reviews
@@ -254,7 +259,7 @@ __145th American Public Health Association 2017 Annual Meeting__
 - Ad hoc abstract review: International Health Section
 
 
-## University and Community Service
+## University Governance and Program Service
 `Winter 2021`
 __Florida State University/ Center for Translational Behavioral Research__
 - Adolescent Medicine Trials Network for HIV/AIDS Interventions (ATN), Spring 2021 Meeting Planning Committee, Washington, D.C.
@@ -275,6 +280,9 @@ __Florida State University/ Center for Translational Behavioral Research__
 __University of Texas Health Science Center at Houston (UTHealth)__
 - Harris County Public Health – Surveillance and Epidemiology Volunteer (Ad Hoc)
 
+
+## Other Service
+
 `2011 - 2012`
 - Member, Ghana Atomic Energy Commission, Radiological and Medical Sciences Research Institute - Administrative Steering Committee, Accra, Ghana.
 - Member, Ghana Atomic Energy Commission, Radiological and Medical Sciences Research Institute - Research and Technical Committee, Accra, Ghana.    
@@ -283,7 +291,7 @@ __University of Texas Health Science Center at Houston (UTHealth)__
 `2010 - 2011`
 Treasurer, Student Government Association, Columbia University, Mailman School of Public Health, New York, New York.
 
-## Professional Affiliations
+## Professional Affiliations and Societies
 
 `2017 - Present`
 __American Public Health Association (APHA)__
