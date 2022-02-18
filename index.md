@@ -60,6 +60,7 @@ This project linked youth living with HIV and at risk for HIV to critical housin
   - Evaluate training programs offered to health service providers across Florida.
   - Produce the final report detailing program opportunities and challenges, submitted to Florida Department of Health.
 
+`2020 - Present`
 __EHE - Youth Learning Health Community (YLHC)__
 
 This project seeks to plan and develop strategies to effectively address the HIV epidemic in youth living in Orlando, Florida, in direct response to the US government’s new policy, _Ending the HIV Epidemic_. My responsibilities include:
