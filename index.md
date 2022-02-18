@@ -113,8 +113,9 @@ __Graduate Research Assistant, Mobile Technology for Community Health (MoTeCH) P
 
 `June 2020 - May 2021`
 __Preparation to Implement Novel Data to Care Initiatives__
+
 - Role: Co-I PI
-- Sponsor: University of Miami (Center for AIDS Research (CFAR) | National Institute of Allergy
+- Sponsor: University of Miami - Center for AIDS Research (CFAR)) and the National Institute of Allergy (NIA)
 - Sponsor No.: SPC-001385
 - Award Amount: $27,110.00
 
