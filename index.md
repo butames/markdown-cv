@@ -161,16 +161,19 @@ Butame, S. A., Examining the association between healthcare utilization and empo
 
 `2020`
 __AcademyHealth (Dissemination and Implementation Conference)__
+
 - Budhwani H, Nagy S, Fernandez MI, Todd L, **Butame S.A.**, Naar S. Reporting on early phases of the exploration preparation implementation sustainment (EPIS) framework to inform tailored motivational interviewing (TMI) delivery across United States HIV pediatric and adolescent clinics (ATN protocols 146 and 153). AcademyHealth Dissemination and Implementation Conference. Virtual. 2020.
 
 `2020`
 __International AIDS Society (International AIDS Conference)__
+
 - **Butame S.A.**, Harper G, Jauregui J., Skeen S., Idalski Carcone A., Coyle K., Naar S. Evaluating implementation practices in the Adolescent Trials Network for HIV/AIDS Interventions (ATN) with the EPIS Model: The role of policy within program implementation. Presented at the AIDS 2020 – 23rd International AIDS Conference. July 06 - 10, 2020. Virtual.
 - Pooler-Burgess M., **Butame S.A.**, Naar S. Academic-public health partnerships for data driven implementation science recruitment of youth living with HIV in Florida. Presented at the AIDS 2020 – 23rd International AIDS Conference. July 06 - 10, 2020. Virtual.
 - Budhwani H., Hearld K.R., **Butame S.A.**, Tapia L., Naar S., Rodriguez-Lauzurique R.M., Paulino-Ramirez R. Socio serological study of transgender women in Dominican Republic: HIV and stigma. Presented at the AIDS 2020 – 23rd International AIDS Conference. July 06 - 10, 2020. Virtual
 
 `2019`
 __Adolescent Medicine Trials Network for HIV/AIDS Interventions__
+
 - **Butame S.A.**, Nagy S., Naar S. Tackling the implementation of a Tailored Motivational Interviewing Intervention (TMI) -- Lessons learned from a sampling of clinical care sites. Presented at the Adolescent Medicine Trials Network for HIV/AIDS Interventions (ATN) Annual Meeting. October 23-25, 2019, Washington, D.C.
 - **Butame, S.A.**, Naar, S., Parsons, J.T., Stanton, B.F. Introducing ‘Scale-It Up’ – A program to improve self-management interventions among youth living with HIV (YLWH) and at-risk youth in the U.S. Presented at the Florida, Community, Providers and Researchers Conference. April 18-19, 2019. Gainesville, FL.
 
@@ -180,14 +183,17 @@ __Adolescent Medicine Trials Network for HIV/AIDS Interventions__
 
 `2016`
 __American Public Health Associaton__
+
 - Gallardo KR & **Butame, S. A.**, & Wilkerson JM. Health promotion pedagogy: Evaluating the effectiveness of a curriculum designed to increase teaching self-efficacy among doctoral students. Presented at the 144th American Public Health Association Annual Meeting and Expo. October 29 – November 2, 2016. Denver, CO.
 
 `2016`
 __Society for Prevention Research__
+
 - Lawler SM, **Butame, S. A.**, Rhoton J, Mengle S, & Wilkerson JM. Slam Orgies among Men Who Have Sex with Men Who Participated in the ISHKonnect Study: A Mixed Methods Exploration of Substance Use and HIV Risk. Presented at the 24th Annual Meetings of the Society for Prevention Research. May 31 - June 3, San Francisco, CA.
 
 `2016`
-__UTHealth Research Day__
+__Univ. of Texas Health Science Center at Houston (UTHealth) Research Day__
+
 - **Butame, S. A.**, Lawler SM, Hicks JT, Wilkerson JM & Nyitray AG. Screening for anal cancer: Acceptability of performing a self- or partner assisted anal exam among men who have sex with men. Presented at the University of Texas Health Science Center at Houston, School of Public health, Research Day. March 31, 2016. Houston, TX.
 - Lawler SM, **Butame SA**, Li DH, Mengle S & Wilkerson JM. Slam Orgies Among Indian Men Who Have Sex with Men (MSM) in Maharashtra: An Examination of Substance Use and HIV Risk. Presented at the McGovern Award Lecture Series in Health Promotion. February 17, 2016. Houston, TX.
 - Gallardo KR & **Butame, S. A.**, & Wilkerson JM. Health Promotion Pedagogy: Increasing Teaching Self-Efficacy among Doctoral Students. Presented at the McGovern Award Lecture Series in Health Promotion. February 17, 2016. Houston, TX.
