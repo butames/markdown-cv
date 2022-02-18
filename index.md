@@ -151,11 +151,13 @@ __Adolescent Medicine Trials Network for HIV/AIDS Interventions(ATN)__
 
 `2019`
 __Society of Behavioral Medicine__
-Butame, S. A., Symposium 65D – Promoting evidence-based practice in adolescent HIV clinics through implementation science (IS). Presented at the 40th Annual Meeting & Scientific Sessions of the Society of Behavioral Medicine. March 5, 2019. Washington, D.C.
+
+- **Butame, S. A.**, Symposium 65D – Promoting evidence-based practice in adolescent HIV clinics through implementation science (IS). Presented at the 40th Annual Meeting & Scientific Sessions of the Society of Behavioral Medicine. March 5, 2019. Washington, D.C.
 
 `2017`
 __American Public Health Association__
-Butame, S. A., Examining the association between healthcare utilization and empowerment, among women in Ghana. Presented at the 145th American Public Health Association Annual Meeting and Expo. November 6, 2017. Atlanta, GA.
+
+ - **Butame, S. A.**, Examining the association between healthcare utilization and empowerment, among women in Ghana. Presented at the 145th American Public Health Association Annual Meeting and Expo. November 6, 2017. Atlanta, GA.
 
 ### Poster Presentations
 
