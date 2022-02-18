@@ -52,10 +52,12 @@ __Reed College, Portland, OR.__
 
 ### FSU | COM - Research Faculty, Tallahassee, FL
 
+As Research Faculty in the Center for Translational Behavioral Science, Dr. Butame has worked on several investigative programs and projects. Below are a sampling of the projects and programs and specific responsiblities.
+
 `2021 - Present`
 __FLEX Peer Navigation Program__
 
-This project linked youth living with HIV and at risk for HIV to critical housing and health services offered through the Florida Department of Health. My responsibilities were in **outreach**, **screening**, and **program evaluation**. Specifics include:
+This project links youth living with HIV and at risk for HIV to critical housing and health services offered through the Florida Department of Health. My responsibilities were in **outreach**, **screening**, and **program evaluation**. Specific responsibilities include:
   - Developing and disseminating a screener to assist program outreach and client recruitment.
   - Evaluate training programs offered to health service providers across Florida.
   - Produce the final report detailing program opportunities and challenges, submitted to Florida Department of Health.
@@ -63,7 +65,7 @@ This project linked youth living with HIV and at risk for HIV to critical housin
 `2020 - Present`
 __EHE - Youth Learning Health Community (YLHC)__
 
-This project seeks to plan and develop strategies to effectively address the HIV epidemic in youth living in Orlando, Florida, in direct response to the US government’s new policy, _Ending the HIV Epidemic_. My responsibilities include:
+This project seeks to plan and develop strategies to effectively address the HIV epidemic in youth living in Orlando, Florida, in direct response to the US government’s new policy, *Ending the HIV Epidemic*. Specific responsibilities include:
   - Co-chairing the EHE project at the Center for Translational Behavioral Science (CTBScience).
   - Gathering youth HIV data and presenting it to an implementation team consisting of providers in the Orlando metro area.
   - Perform general program and evaluation activities. 
@@ -71,14 +73,14 @@ This project seeks to plan and develop strategies to effectively address the HIV
 `2018 - Present`
 __Scale It Up Program (ATN 153: EPIS Study)__
 
-The EPIS study seeks to integrate evidence-based practices into practice, to enhance HIV-related self-management in youth populations. A part of the larger Scale It Up Program, my work centered on **data managment** and **analysis**.
+The EPIS study seeks to integrate evidence-based practices into practice, to enhance HIV-related self-management in youth populations. A part of the larger Scale It Up Program, my work centered on **data managment** and **analysis**. Specific responsibilities include:
  - Co-lead of the implementation science committee.
  - Study survey data data (qualitative and quantitative) management.
 
 `2019 - 2020`
 __Scale It Up Program (ATN 169: EHR-COC Study)__
 
-This program focused on assessing the use of electronic health systems at care and service sites across the country, their ability to facilitate the implementation of interventions for youth living with HIV.
+This program focused on assessing the use of electronic health systems at care and service sites across the country, their ability to facilitate the implementation of interventions for youth living with HIV. Specific responsiblities include:
  - Interviewing providers, electronic health system providers on the capabilities of their systems.
  - Qualitative data collection and analysis.
  - Ad-hoc protocol team duties.
