@@ -50,10 +50,11 @@ __Reed College, Portland, OR.__
 ## Current Work Experience
 
 `2020 - Present`
-### Research Faculty, CTBScience, Tallahassee, FL
+### Research Faculty
 
-As Research Faculty in the **Center for Translational Behavioral Science (CTBScience), Florida State University**, Dr. Butame has worked on several investigative programs and projects. Below are a sampling of the projects and programs and specific responsiblities.
+__Center for Translational Behavioral Science (CTBScience), Florida State University, Tallahassee, FL.__
 
+As Research Faculty in CTBScience, Dr. Butame has worked on several investigative programs and projects. Below are a sampling of the projects and programs and specific responsiblities.
 
 __FLEX Peer Navigation Program__
 
@@ -83,7 +84,11 @@ This program focused on assessing the use of electronic health systems at care a
  - Ad-hoc protocol team duties.
 
 `2018 - 2020`
-### Postdoctoral Fellow, CTBScience, Tallahassee, FL
+### Postdoctoral Fellow
+
+__Center for Translational Behavioral Science (CTBScience), Florida State University, Tallahassee, FL.__
+
+Dr. Butame began his academic work as a postdoctoral fellow at CTBScience. Below are a sampling of the projects and programs and specific responsiblities and duties:
 
 ## Other Work Experience
 
