@@ -10,9 +10,9 @@ Research Faculty, Public health policy expert, and Health analyst.
  <br>
  <a href="https://med.fsu.edu/" target="_blank">Florida State Uninversity - College of Medicine</a>
  <br>
- <a Tallahassee, Florida</a>
+ <a> Tallahassee, Florida</a>
  <br>
- <a Telephone: (713) 865-0191</a>
+ <a> Telephone: (713) 865-0191</a>
  <br>
  <a href="mailto: butames@gmail.com" target="_blank">Email: butames@gmail.com</a>
  <br>
