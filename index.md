@@ -8,7 +8,7 @@ Research Faculty, Public health policy expert, and analyst.
 <div id="webaddress">
  <a href="https://ctbs.fsu.edu/person/seyram-butame-phd" target="_blank">Center for Translational Behavioral Science (CTBScience)</a>
  <br>
- <a href="https://med.fsu.edu/" target="_blank">Florida State Uninversity - College of Medicine</a>
+ <a href="https://med.fsu.edu/" target="_blank">Florida State University - College of Medicine</a>
  <br>
  <a> Tallahassee, Florida</a>
  <br>
@@ -27,7 +27,7 @@ I am currently working as a Research Faculty at Florida State University, Colleg
 
 ### Areas of Interest
 
-Policy Impementation, Data Science, child health and well-being.
+Policy implementation, data science, child health and well-being.
 
 ### Research interests
 
@@ -58,7 +58,7 @@ __Reed College, Portland, OR.__
 
 __Center for Translational Behavioral Science (CTBScience), Florida State University, Tallahassee, FL.__
 
-As Research Faculty in CTBScience, Dr. Butame has worked on several investigative programs and projects. Below are a sampling of the projects and programs and specific responsiblities.
+As Research Faculty at CTBScience, Dr. Butame has worked on several investigative programs and projects. Below are a sampling of the projects and programs and specific responsibilities.
 
 __FLEX Peer Navigation Program__
 
@@ -76,13 +76,13 @@ This project seeks to plan and develop strategies to effectively address the HIV
 
 __Scale It Up Program (ATN 153: EPIS Study)__
 
-The EPIS study seeks to integrate evidence-based practices into practice, to enhance HIV-related self-management in youth populations. A part of the larger Scale It Up Program, my work centered on **data managment** and **analysis**. Specific responsibilities include:
+The EPIS study seeks to integrate evidence-based practices into practice, to enhance HIV-related self-management in youth populations. A part of the larger Scale It Up Program, my work centered on **data management** and **analysis**. Specific responsibilities include:
  - Co-lead of the implementation science committee.
- - Study survey data data (qualitative and quantitative) management.
+ - Study survey data (qualitative and quantitative) management.
 
 __Scale It Up Program (ATN 169: EHR-COC Study)__
 
-This program focused on assessing the use of electronic health systems at care and service sites across the country, their ability to facilitate the implementation of interventions for youth living with HIV. Specific responsiblities include:
+This program focused on assessing the use of electronic health systems at care and service sites across the country, their ability to facilitate the implementation of interventions for youth living with HIV. Specific responsibilities include:
  - Interviewing providers, electronic health system providers on the capabilities of their systems.
  - Qualitative data collection and analysis.
  - Ad-hoc protocol team duties.
@@ -92,7 +92,7 @@ This program focused on assessing the use of electronic health systems at care a
 
 __Center for Translational Behavioral Science (CTBScience), Florida State University, Tallahassee, FL.__
 
-Dr. Butame began his academic work as a postdoctoral fellow at CTBScience. Below are a sampling of the projects and programs and specific responsiblities and duties:
+Dr. Butame began his academic work as a postdoctoral fellow at CTBScience. Below are a sampling of the projects and programs and specific responsibilities and duties:
 
 
 __Scale It Up Program (ATN 153: EPIS Study)__
@@ -151,7 +151,7 @@ __Preparation to Implement Novel Data to Care Initiatives__
 - Mengle Rawat S, Wilkerson JM, Lawler SM, Patankar P, Rosser BRS, Shukla K, **Butame S.A.**, Ekstrand ML. (2018). Recommendations for the Development of a Mobile HIV Prevention Intervention for Men Who Have Sex With Men and Hijras in Mumbai: Qualitative Study. JMIR public health and surveillance, 4(2). doi: [10.2196/publichealth.9088](https://doi.org/10.2196/publichealth.9088)
 
 `2017`
-- **Butame, S. A.**, Lawler, S., Hicks, J. T., Wilkerson, J. M., Hwang, L.-Y., Baraniuk, S., . . . Nyitray, A. G. (2017). A qualitative investigation among men who have sex with men on the acceptability of performing a self- or partner anal exam to screen for anal cancer. Cancer Causes & Control, 1-10. doi:[10.1007/s10552-017-0935-6](https://doi.org/10.1007/s10552-017-0935-6)
+- **Butame, S. A.**, Lawler, S., Hicks, J. T., Wilkerson, J. M., Hwang, L.-Y., Baraniuk, S., . . . Nyitray, A. G. (2017). A qualitative investigation among men who have sex with men on the acceptability of performing a self or partner anal exam to screen for anal cancer. Cancer Causes & Control, 1-10. doi:[10.1007/s10552-017-0935-6](https://doi.org/10.1007/s10552-017-0935-6)
 
 `2016`
 - Wilkerson, J. M., Gallardo, K. R., **Butame, S. A.**, Hoelscher, D. M., Reininger, B., & Shegog, R. (2016). Increasing Doctoral Students’ Self-Efficacy to Teach Health Promotion Theory. Pedagogy in Health Promotion. doi: [10.1177/2373379916681032](https://doi.org/10.1177/2373379916681032)
@@ -251,7 +251,7 @@ __University of the Incarnate Word/ UTHealth San Antonio, TX__
 
 ## Editorial Activities
 
-### Journals and Perodicals
+### Journals and Periodicals
 
 `2021 - Present`
 __AIDS Patient Care and STDs (Mary Ann Liebert, Inc.)__
@@ -290,8 +290,12 @@ __145th American Public Health Association 2017 Annual Meeting__
 
 
 ## University Governance and Program Service
+`2021`
+__Florida State University - Behavioral Science and Social Medicine (BSSM) Department__
+- Community Grand Rounds Planning Committee (Department Chair's special committee)
+
 `Winter 2021`
-__Florida State University/ Center for Translational Behavioral Research__
+__Florida State University - Center for Translational Behavioral Research__
 - Adolescent Medicine Trials Network for HIV/AIDS Interventions (ATN), Spring 2021 Meeting Planning Committee, Washington, D.C.
 
 `Winter 2020`
@@ -314,9 +318,9 @@ __University of Texas Health Science Center at Houston (UTHealth)__
 ## Other Service
 
 `2011 - 2012`
-- Member, Ghana Atomic Energy Commission, Radiological and Medical Sciences Research Institute - Administrative Steering Committee, Accra, Ghana.
-- Member, Ghana Atomic Energy Commission, Radiological and Medical Sciences Research Institute - Research and Technical Committee, Accra, Ghana.    
-- Member, Ghana Atomic Energy Commission, Radiological and Medical Sciences Research Institute - Publications Committee, Accra, Ghana.
+- Ghana Atomic Energy Commission, Radiological and Medical Sciences Research Institute - Administrative Steering Committee, Accra, Ghana.
+- Ghana Atomic Energy Commission, Radiological and Medical Sciences Research Institute - Research and Technical Committee, Accra, Ghana.    
+- Ghana Atomic Energy Commission, Radiological and Medical Sciences Research Institute - Publications Committee, Accra, Ghana.
 
 `2010 - 2011`
 Treasurer, Student Government Association, Columbia University, Mailman School of Public Health, New York, New York.
@@ -336,7 +340,7 @@ __International AIDS Society(IAS)__
 
 __Statistical Analysis__
 - Stata Statistical Software
-- R Programming Language/ R Studio
+- R. Programming Language/R. Studio
 - IBM SPSS Statistics
 - SAS Analytics
 
@@ -349,5 +353,3 @@ __Spread sheets, Processing & Presentations__
 <div class="footer">
   Last updated: February 2022
 </div>
-
-
