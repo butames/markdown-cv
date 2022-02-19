@@ -204,19 +204,19 @@ __Adolescent Medicine Trials Network for HIV/AIDS Interventions__
 `2016`
 __American Public Health Associaton__
 
-- Gallardo KR & **Butame, S. A.**, & Wilkerson JM. Health promotion pedagogy: Evaluating the effectiveness of a curriculum designed to increase teaching self-efficacy among doctoral students. Presented at the 144th American Public Health Association Annual Meeting and Expo. October 29 – November 2, 2016. Denver, CO.
+- Gallardo KR & **Butame, SA**, & Wilkerson JM. Health promotion pedagogy: Evaluating the effectiveness of a curriculum designed to increase teaching self-efficacy among doctoral students. Presented at the 144th American Public Health Association Annual Meeting and Expo. October 29 – November 2, 2016. Denver, CO.
 
 `2016`
 __Society for Prevention Research__
 
-- Lawler SM, **Butame, S. A.**, Rhoton J, Mengle S, & Wilkerson JM. Slam Orgies among Men Who Have Sex with Men Who Participated in the ISHKonnect Study: A Mixed Methods Exploration of Substance Use and HIV Risk. Presented at the 24th Annual Meetings of the Society for Prevention Research. May 31 - June 3, San Francisco, CA.
+- Lawler SM, **Butame, SA**, Rhoton J, Mengle S, & Wilkerson JM. Slam Orgies among Men Who Have Sex with Men Who Participated in the ISHKonnect Study: A Mixed Methods Exploration of Substance Use and HIV Risk. Presented at the 24th Annual Meetings of the Society for Prevention Research. May 31 - June 3, San Francisco, CA.
 
 `2016`
 __Univ. of Texas Health Science Center at Houston (UTHealth) Research Day__
 
-- **Butame, S. A.**, Lawler SM, Hicks JT, Wilkerson JM & Nyitray AG. Screening for anal cancer: Acceptability of performing a self- or partner assisted anal exam among men who have sex with men. Presented at the University of Texas Health Science Center at Houston, School of Public health, Research Day. March 31, 2016. Houston, TX.
+- **Butame, SA**, Lawler SM, Hicks JT, Wilkerson JM & Nyitray AG. Screening for anal cancer: Acceptability of performing a self- or partner assisted anal exam among men who have sex with men. Presented at the University of Texas Health Science Center at Houston, School of Public health, Research Day. March 31, 2016. Houston, TX.
 - Lawler SM, **Butame SA**, Li DH, Mengle S & Wilkerson JM. Slam Orgies Among Indian Men Who Have Sex with Men (MSM) in Maharashtra: An Examination of Substance Use and HIV Risk. Presented at the McGovern Award Lecture Series in Health Promotion. February 17, 2016. Houston, TX.
-- Gallardo KR & **Butame, S. A.**, & Wilkerson JM. Health Promotion Pedagogy: Increasing Teaching Self-Efficacy among Doctoral Students. Presented at the McGovern Award Lecture Series in Health Promotion. February 17, 2016. Houston, TX.
+- Gallardo KR & **Butame, SA**, & Wilkerson JM. Health Promotion Pedagogy: Increasing Teaching Self-Efficacy among Doctoral Students. Presented at the McGovern Award Lecture Series in Health Promotion. February 17, 2016. Houston, TX.
 
 
 ## Unpublished Manuscripts and Works
