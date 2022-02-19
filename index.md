@@ -3,7 +3,7 @@ layout: cv
 title: Seyram A. Butame -- Resume
 ---
 # SEYRAM A. BUTAME, PhD
-Research Faculty, Public health policy expert, and Health analyst.
+Research Faculty, Public health policy expert, and analyst.
 
 <div id="webaddress">
  <a href="https://ctbs.fsu.edu/person/seyram-butame-phd" target="_blank">Center for Translational Behavioral Science (CTBScience)</a>
@@ -67,7 +67,7 @@ This project links youth living with HIV and at risk for HIV to critical housing
   - Evaluate training programs offered to health service providers across Florida.
   - Produce the final report detailing program opportunities and challenges, submitted to Florida Department of Health.
 
-__EHE - Youth Learning Health Community (YLHC)__
+__Ending the Epidemic - Youth Learning Health Community (YLHC)__
 
 This project seeks to plan and develop strategies to effectively address the HIV epidemic in youth living in Orlando, Florida, in direct response to the US government’s new policy, *Ending the HIV Epidemic*. Specific responsibilities include:
   - Co-chairing the EHE project at the Center for Translational Behavioral Science (CTBScience).
@@ -93,6 +93,12 @@ This program focused on assessing the use of electronic health systems at care a
 __Center for Translational Behavioral Science (CTBScience), Florida State University, Tallahassee, FL.__
 
 Dr. Butame began his academic work as a postdoctoral fellow at CTBScience. Below are a sampling of the projects and programs and specific responsiblities and duties:
+
+
+__Scale It Up Program (ATN 153: EPIS Study)__
+
+__Scale It Up Program (ATN 169: EHR-COC Study)__
+
 
 ## Other Work Experience
 
