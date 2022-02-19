@@ -31,7 +31,7 @@ Policy implementation, data science, child health and well-being.
 
 ### Research interests
 
-Implementation Science, Translational Science, HIV, youth HIV.
+Implementation science, translational science, HIV, youth HIV.
 
 
 ## Education
