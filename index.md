@@ -127,12 +127,12 @@ __Administrative Coordinator, Ghana Atomic Energy Commission (Accra, GH)__
 - Assistant to the Director of the Radiological and Medical Sciences Research Institute (RAMSRI).
 - Prepare a business proposal to secure funding to establish a Diagnostic Imaging and Inpatient Centre.
 
-`2010 - 2011`
+`2011`
 __Intern/Consultant, International Atomic Energy Agency (Vienna, AT)__
 - Aid Programme Management Officer (PMO) to manage IAEA projects (Botswana, Ethiopia, Ghana and Tanzania).
 - Work with PMO and Technical Officers to review and refocus Country Programme Framework (CPF) documents.
 
-`2010 - 2011`
+`Summer 2010`
 __Graduate Research Assistant, Mobile Technology for Community Health (MoTeCH) Project (Navrongo, GH)__
 - Review demographic and survey data, collected by field research assistants.
 - Clean collected data in preparation for further analysis using, statistical software package.
