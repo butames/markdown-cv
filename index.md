@@ -348,6 +348,10 @@ __International AIDS Society(IAS)__
 
 ##  Technical Skills
 
+__Data and Data Management__
+- Quantitative data
+- Qualitative data
+
 __Statistical Analysis__
 - Stata Statistical Software
 - R. Programming Language/R. Studio
@@ -356,6 +360,9 @@ __Statistical Analysis__
 
 __Data Visualization__
 - Tableau Software
+
+__Qualitative Data__
+- NVivo Software
 
 __Spread sheets, Processing & Presentations__
 - Microsoft Office (Excel, MS Word, MS Powerpoint)
