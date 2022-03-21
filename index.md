@@ -353,10 +353,10 @@ __Data and Data Management__
 - Qualitative data
 
 __Statistical Analysis__
-- Stata Statistical Software
-- R. Programming Language/R. Studio
-- IBM SPSS Statistics
-- SAS Analytics
+- **Stata** Statistical Software
+- **R /R Studio**
+- IBM **SPSS** Statistics
+- **SAS** Analytics
 
 __Data Visualization__
 - Tableau Software
@@ -368,5 +368,5 @@ __Spread sheets, Processing & Presentations__
 - Microsoft Office (Excel, MS Word, MS Powerpoint)
 
 <div class="footer">
-  Last updated: February 2022
+  Last updated: March 2022
 </div>
