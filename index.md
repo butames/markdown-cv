@@ -95,11 +95,13 @@ __Center for Translational Behavioral Science (CTBScience), Florida State Univer
 Dr. Butame began his academic work as a postdoctoral fellow at CTBScience. Below are a sampling of the projects and programs and specific responsibilities and duties:
 
 __Scale It Up Program (ATN 153: EPIS Study)__
+
 _ Develop papers for publication in scientific journals.
 _ Manage a team to collect and manage survey data.
 _ Develop materials and posters for scientific conferences.
 
 __Scale It Up Program (ATN 169: EHR-COC Study)__
+
 _ Develop papers for publication in scientific journals.
 _ Conduct phone interviews and collect and manage qualitative data.
 _ Develop materials and posters for scientific conferences.
