@@ -178,7 +178,12 @@ A list of Dr. Seyram A. Butame's publications may be found at the following:
 ## Invited Symposia, Presentations and Posters
 
 ### Symposia and Presentations
+
 `2021`
+
+__Conference on Retroviruses and Opportunistic Infections (CROI)__
+- Ennis, N., Armas, L., **Butame, S.A.**, Barriers Impacting Telehealth Medical Appointment Adherence Among PLWHA, 2021 Conference on Retroviruses and Opportunistic Infections (CROI) - Virtual, March 6 -10, 2021. 
+
 __Adolescent Medicine Trials Network for HIV/AIDS Interventions(ATN)__
 
 `2019`
