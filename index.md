@@ -27,7 +27,7 @@ I am currently working as a Research Faculty at Florida State University, Colleg
 
 ### Areas of Interest
 
-Policy implementation, data science, child health and well-being.
+Policy implementation, data science, social justice.
 
 ### Research interests
 
