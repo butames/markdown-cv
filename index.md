@@ -115,6 +115,8 @@ __Graduate Assistant, Division. Health Management and Community Health, UTHealth
 __Graduate Assistant, Division of Health Promotion and Behavioral Sciences, UTHealth (Houston, TX)__
 - Assist faculty in writing and submitting grants. 
 - Monitor and track faculty research projects.
+- Collect and clean data for research projects.
+- Review manuscripts in preparation for publication.
 
 `2013 - 2015`
 __Graduate Assistant Library Services, UTHealth (Houston, TX)__
