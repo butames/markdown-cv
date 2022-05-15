@@ -107,7 +107,7 @@ __Scale It Up Program (ATN 169: EHR-COC Study)__
 ## Other Work Experience
 
 `2017`
-__Graduate Assistant, Division. Health Management and Community Health, UTHealth (Houston, TX)__
+__Graduate Assistant, Division of Health Management and Community Health, UTHealth (Houston, TX)__
 - Taught online public health courses to Nursing and undergraduate students (Partnership with the University of the Incarnate Word). 
 - Develop public health courses for nursing students and undergraduate students (Partnership with the University of the Incarnate Word).  
 
